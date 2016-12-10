@@ -577,10 +577,6 @@ General writer options
     where there are nonsemantic newlines in the source, there
     will be nonsemantic newlines in the output as well).
 
-`--no-wrap`
-
-:   Deprecated synonym for `--wrap=none`.
-
 `--columns=`*NUMBER*
 
 :   Specify length of lines in characters.  This affects text wrapping
